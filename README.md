@@ -15,3 +15,9 @@ Welcome to the Temperature Converter! This application allows users to convert t
 - HTML
 - CSS
 - JS
+
+SCREENSHOTS
+
+![Screenshot (35)](https://github.com/Saurabh-21063/temperature-converter/assets/123747524/472bfa00-8a89-41b0-bbcf-01ed947c5340)
+
+
